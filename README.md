@@ -23,13 +23,8 @@ I am a 3rd year Engineering student at NMAM Institute of Technology
 - ReactJS
 - Tailwind 
 
-### 📝 Blog & Content
-- Check out my blog: [insert blog URL]
-- Popular posts: [insert link to popular blog posts]
-
 ### 🤝 Let's Connect
 - 💻 Linkedin : www.linkedin.com/in/prathamesh-hegde
 -  E-mail : prathameshhegde1903@gmail.com
 
-<!-- GitHub Stats -->
-![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?u
+
