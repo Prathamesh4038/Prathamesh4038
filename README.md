@@ -1,5 +1,6 @@
-### Hello, I'm Prathamesh Hegde 👋
-Passionate student from India
+ Hello, I'm Prathamesh Hegde 👋
+ Passionate student from INDIA
+
 I am a 3rd year Engineering student at NMAM Institute of Technology
 
 - 🌱 I’m currently learning DevOps practices, cloud-native architectures, and expanding my knowledge in engineering.
@@ -8,7 +9,7 @@ I am a 3rd year Engineering student at NMAM Institute of Technology
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy experimenting with new tech stacks and participating in hackathons!
 
-### 🔧 Technologies & Tools
+ 🔧 Technologies & Tools
 - Microsoft Azure
 - GitHub Actions
 - JavaScript
@@ -23,7 +24,7 @@ I am a 3rd year Engineering student at NMAM Institute of Technology
 - ReactJS
 - Tailwind 
 
-### 🤝 Let's Connect
+🤝 Let's Connect
 - 💻 Linkedin : www.linkedin.com/in/prathamesh-hegde
 -  E-mail : prathameshhegde1903@gmail.com
 
